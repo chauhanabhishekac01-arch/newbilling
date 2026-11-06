@@ -1,0 +1,18 @@
+{
+  "short_name": "WinkInvoice",
+  "name": "Wink It Mussoorie Invoice Generator",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1611/1611154.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f8f9fa",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#2c3e50",
+  "description": "High-precision invoice generator for Wink It Mussoorie."
+}
